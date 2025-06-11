@@ -4,7 +4,7 @@
 **Fitscan** is a **dual-platform** (web + mobile) smart gym management system with **IoT integration** (Raspberry Pi) for access control. This project focuses on front-end features like member management, check-ins, weight tracking, and role-based views.
 
 ## 📸 UI Preview
-[🔗 FitScan_UI_Preview.pdf](assets/FitScan_UI_Preview.pdf) 
+[🔗 FitScan_UI_Preview.pdf](https://github.com/jvbkishore/fitscan-ui/blob/40ff9796d1847b338832928854b01aeec9dd5c42/src/assets/Fitscan_UI_Preview.pdf)
 
 
 
